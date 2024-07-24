@@ -1,0 +1,68 @@
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Application.deps.json
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Application.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Application.pdb
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Domain.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Infrastructure.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Domain.pdb
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Infrastructure.pdb
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.AssemblyReference.cache
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.AssemblyInfoInputs.cache
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.AssemblyInfo.cs
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.CoreCompileInputs.cache
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.CopyComplete
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\obj\Debug\net6.0\refint\Shop.Application.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.pdb
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Application\obj\Debug\net6.0\ref\Shop.Application.dll
+D:\API\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Application.deps.json
+D:\API\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Application.dll
+D:\API\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Application.pdb
+D:\API\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Domain.dll
+D:\API\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Infrastructure.dll
+D:\API\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Domain.pdb
+D:\API\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Infrastructure.pdb
+D:\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.AssemblyReference.cache
+D:\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.AssemblyInfoInputs.cache
+D:\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.AssemblyInfo.cs
+D:\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.CoreCompileInputs.cache
+D:\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.CopyComplete
+D:\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.dll
+D:\API\ShopOnline\Shop.Application\obj\Debug\net6.0\refint\Shop.Application.dll
+D:\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.pdb
+D:\API\ShopOnline\Shop.Application\obj\Debug\net6.0\ref\Shop.Application.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Application.deps.json
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Application.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Application.pdb
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Domain.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Infrastructure.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Domain.pdb
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Infrastructure.pdb
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.AssemblyReference.cache
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.AssemblyInfoInputs.cache
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.AssemblyInfo.cs
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.CoreCompileInputs.cache
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.CopyComplete
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\obj\Debug\net6.0\refint\Shop.Application.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.pdb
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Application\obj\Debug\net6.0\ref\Shop.Application.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Application.deps.json
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Application.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Application.pdb
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Domain.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Infrastructure.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Domain.pdb
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\bin\Debug\net6.0\Shop.Infrastructure.pdb
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.AssemblyReference.cache
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.AssemblyInfoInputs.cache
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.AssemblyInfo.cs
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.CoreCompileInputs.cache
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.CopyComplete
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\obj\Debug\net6.0\refint\Shop.Application.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\obj\Debug\net6.0\Shop.Application.pdb
+D:\Booking-Hotel\BE\ShopOnline\Shop.Application\obj\Debug\net6.0\ref\Shop.Application.dll
