@@ -1,0 +1,68 @@
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.deps.json
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.runtimeconfig.json
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.pdb
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Domain.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Domain.pdb
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.csproj.AssemblyReference.cache
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.AssemblyInfoInputs.cache
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.AssemblyInfo.cs
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.csproj.CopyComplete
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\refint\Shop.Infrastructure.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.pdb
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.genruntimeconfig.cache
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\ref\Shop.Infrastructure.dll
+D:\API\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.deps.json
+D:\API\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.runtimeconfig.json
+D:\API\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.dll
+D:\API\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.pdb
+D:\API\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Domain.dll
+D:\API\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Domain.pdb
+D:\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.csproj.AssemblyReference.cache
+D:\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.AssemblyInfoInputs.cache
+D:\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.AssemblyInfo.cs
+D:\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.csproj.CoreCompileInputs.cache
+D:\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.csproj.CopyComplete
+D:\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.dll
+D:\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\refint\Shop.Infrastructure.dll
+D:\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.pdb
+D:\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.genruntimeconfig.cache
+D:\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\ref\Shop.Infrastructure.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.deps.json
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.runtimeconfig.json
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.pdb
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Domain.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Domain.pdb
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.AssemblyInfo.cs
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.csproj.CopyComplete
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\refint\Shop.Infrastructure.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.pdb
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.genruntimeconfig.cache
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\ref\Shop.Infrastructure.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.deps.json
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.runtimeconfig.json
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Infrastructure.pdb
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Domain.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\bin\Debug\net6.0\Shop.Domain.pdb
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.csproj.AssemblyReference.cache
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.AssemblyInfoInputs.cache
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.AssemblyInfo.cs
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.csproj.CopyComplete
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\refint\Shop.Infrastructure.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.pdb
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\Shop.Infrastructure.genruntimeconfig.cache
+D:\Booking-Hotel\BE\ShopOnline\Shop.Infrastructure\obj\Debug\net6.0\ref\Shop.Infrastructure.dll
