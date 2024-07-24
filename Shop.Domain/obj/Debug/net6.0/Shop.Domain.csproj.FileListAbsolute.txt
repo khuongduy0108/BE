@@ -1,0 +1,44 @@
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Domain\bin\Debug\net6.0\Shop.Domain.deps.json
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Domain\bin\Debug\net6.0\Shop.Domain.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Domain\bin\Debug\net6.0\Shop.Domain.pdb
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.AssemblyInfoInputs.cache
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.AssemblyInfo.cs
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.csproj.CoreCompileInputs.cache
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Domain\obj\Debug\net6.0\refint\Shop.Domain.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.pdb
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Domain\obj\Debug\net6.0\ref\Shop.Domain.dll
+D:\API\ShopOnline\Shop.Domain\bin\Debug\net6.0\Shop.Domain.deps.json
+D:\API\ShopOnline\Shop.Domain\bin\Debug\net6.0\Shop.Domain.dll
+D:\API\ShopOnline\Shop.Domain\bin\Debug\net6.0\Shop.Domain.pdb
+D:\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.AssemblyInfoInputs.cache
+D:\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.AssemblyInfo.cs
+D:\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.csproj.CoreCompileInputs.cache
+D:\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.dll
+D:\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\refint\Shop.Domain.dll
+D:\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.pdb
+D:\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\ref\Shop.Domain.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Domain\bin\Debug\net6.0\Shop.Domain.deps.json
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Domain\bin\Debug\net6.0\Shop.Domain.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Domain\bin\Debug\net6.0\Shop.Domain.pdb
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.AssemblyInfoInputs.cache
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.AssemblyInfo.cs
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\refint\Shop.Domain.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.pdb
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Domain\obj\Debug\net6.0\ref\Shop.Domain.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Domain\bin\Debug\net6.0\Shop.Domain.deps.json
+D:\Booking-Hotel\BE\ShopOnline\Shop.Domain\bin\Debug\net6.0\Shop.Domain.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Domain\bin\Debug\net6.0\Shop.Domain.pdb
+D:\Booking-Hotel\BE\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Booking-Hotel\BE\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.AssemblyInfoInputs.cache
+D:\Booking-Hotel\BE\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.AssemblyInfo.cs
+D:\Booking-Hotel\BE\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.csproj.CoreCompileInputs.cache
+D:\Booking-Hotel\BE\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Domain\obj\Debug\net6.0\refint\Shop.Domain.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Domain\obj\Debug\net6.0\Shop.Domain.pdb
+D:\Booking-Hotel\BE\ShopOnline\Shop.Domain\obj\Debug\net6.0\ref\Shop.Domain.dll
