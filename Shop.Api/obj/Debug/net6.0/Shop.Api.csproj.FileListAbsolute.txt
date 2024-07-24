@@ -1,0 +1,304 @@
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\appsettings.json
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.exe
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.deps.json
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.runtimeconfig.json
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.pdb
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Humanizer.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Application.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Domain.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Infrastructure.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Application.pdb
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Domain.pdb
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Infrastructure.pdb
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.csproj.AssemblyReference.cache
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.AssemblyInfoInputs.cache
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.AssemblyInfo.cs
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.csproj.CoreCompileInputs.cache
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.Shop.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Shop.Api.props
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Shop.Api.props
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Shop.Api.props
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\scopedcss\bundle\Shop.Api.styles.css
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.csproj.CopyComplete
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\refint\Shop.Api.dll
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.pdb
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.genruntimeconfig.cache
+D:\Nam4\LapTrinhWeb1\BackEnd\ShopOnline\Shop.Api\obj\Debug\net6.0\ref\Shop.Api.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\appsettings.json
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.exe
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.deps.json
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.runtimeconfig.json
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.pdb
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Humanizer.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Application.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Domain.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Infrastructure.dll
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Application.pdb
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Domain.pdb
+D:\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Infrastructure.pdb
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.csproj.AssemblyReference.cache
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.AssemblyInfoInputs.cache
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.AssemblyInfo.cs
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.csproj.CoreCompileInputs.cache
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.Shop.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Shop.Api.props
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Shop.Api.props
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Shop.Api.props
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\scopedcss\bundle\Shop.Api.styles.css
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.csproj.CopyComplete
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.dll
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\refint\Shop.Api.dll
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.pdb
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.genruntimeconfig.cache
+D:\API\ShopOnline\Shop.Api\obj\Debug\net6.0\ref\Shop.Api.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.exe
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.deps.json
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.runtimeconfig.json
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.pdb
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Application.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Domain.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Infrastructure.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Application.pdb
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Domain.pdb
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Infrastructure.pdb
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.csproj.AssemblyReference.cache
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.AssemblyInfoInputs.cache
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.AssemblyInfo.cs
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.csproj.CoreCompileInputs.cache
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.Shop.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Shop.Api.props
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Shop.Api.props
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Shop.Api.props
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\scopedcss\bundle\Shop.Api.styles.css
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.csproj.CopyComplete
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\refint\Shop.Api.dll
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.pdb
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.genruntimeconfig.cache
+C:\Users\Khuong Duy\Desktop\API\API\ShopOnline\Shop.Api\obj\Debug\net6.0\ref\Shop.Api.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\appsettings.json
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.exe
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.deps.json
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.runtimeconfig.json
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Api.pdb
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Humanizer.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Application.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Domain.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Infrastructure.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Application.pdb
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Domain.pdb
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\bin\Debug\net6.0\Shop.Infrastructure.pdb
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.csproj.AssemblyReference.cache
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.AssemblyInfoInputs.cache
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.AssemblyInfo.cs
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.csproj.CoreCompileInputs.cache
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.Shop.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Shop.Api.props
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Shop.Api.props
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Shop.Api.props
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\scopedcss\bundle\Shop.Api.styles.css
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.csproj.CopyComplete
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\refint\Shop.Api.dll
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.pdb
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\Shop.Api.genruntimeconfig.cache
+D:\Booking-Hotel\BE\ShopOnline\Shop.Api\obj\Debug\net6.0\ref\Shop.Api.dll
